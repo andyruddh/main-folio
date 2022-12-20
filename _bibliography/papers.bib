@@ -1,83 +1,121 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+@ARTICLE{PDN23,
+	abbr={RA-L},
+	author={Puranic, Aniruddh G. and Deshmukh, Jyotirmoy V. and Nikolaidis, Stefanos},
+	journal={IEEE Robotics and Automation Letters},
+	title={Learning Performance Graphs From Demonstrations via Task-Based Evaluations},
+	year={2023},
+	volume={8},
+	number={1},
+	pages={336-343},
+	doi={10.1109/LRA.2022.3226072}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@ARTICLE{PDN21,
+	abbr={RA-L},
+	author={Puranic, Aniruddh G. and Deshmukh, Jyotirmoy V. and Nikolaidis, Stefanos},  
+	journal={IEEE Robotics and Automation Letters},   
+	title={Learning From Demonstrations Using Signal Temporal Logic in Stochastic and Continuous Domains},   
+	year={2021},  
+	volume={6},  
+	number={4},  
+	pages={6250-6257},  
+	doi={10.1109/LRA.2021.3092676}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
+@InProceedings{PDN20,
+  abbr={CoRL},
+  title = 	 {Learning from Demonstrations using Signal Temporal Logic},
+  author =       {Puranic, Aniruddh and Deshmukh, Jyotirmoy and Nikolaidis, Stefanos},
+  booktitle = 	 {Proceedings of the 2020 Conference on Robot Learning},
+  pages = 	 {2228--2242},
+  year = 	 {2021},
+  volume = 	 {155},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v155/puranic21a/puranic21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v155/puranic21a.html},
+  abstract = 	 {Learning-from-demonstrations is an emerging paradigm to obtain effective robot control policies for complex tasks via reinforcement learning without the need to explicitly design reward functions. However, it is susceptible to imperfections in demonstrations and also raises concerns of safety and interpretability in the learned control policies. To address these issues, we use Signal Temporal Logic to evaluate and rank the quality of demonstrations. Temporal logic-based specifications allow us to create non-Markovian rewards, and also define interesting causal dependencies between tasks such as sequential task specifications. We validate our approach through experiments on discrete-world and OpenAI Gym environments, and show that our approach outperforms the state-of-the-art Maximum Causal Entropy Inverse Reinforcement Learning.}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@inproceedings{HSCC20,
+abbr={HSCC},
+author = {Mohammadinejad, Sara and Deshmukh, Jyotirmoy V. and Puranic, Aniruddh G. and Vazquez-Chanlatte, Marcell and Donz\'{e}, Alexandre},
+title = {Interpretable Classification of Time-Series Data Using Efficient Enumerative Techniques},
+year = {2020},
+isbn = {9781450370189},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3365365.3382218},
+doi = {10.1145/3365365.3382218},
+abstract = {Cyber-physical system applications such as autonomous vehicles, wearable devices, and avionic systems generate a large volume of time-series data. Designers often look for tools to help classify and categorize the data. Traditional machine learning techniques for time-series data offer several solutions to solve these problems; however, the artifacts trained by these algorithms often lack interpretability. On the other hand, temporal logic, such as Signal Temporal Logic (STL) have been successfully used in the formal methods community as specifications of time-series behaviors. In this work, we propose a new technique to automatically learn temporal logic formulas that are able to classify real-valued time-series data. Previous work on learning STL formulas from data either assumes a formula-template to be given by the user, or assumes some special fragment of STL that enables exploring the formula structure in a systematic fashion. In our technique, we relax these assumptions, and provide a way to systematically explore the space of all STL formulas. As the space of all STL formulas is very large, and contains many semantically equivalent formulas, we suggest a technique to heuristically prune the space of formulas considered. Finally, we illustrate our technique on various case studies from the automotive and transportation domains.},
+booktitle = {Proceedings of the 23rd International Conference on Hybrid Systems: Computation and Control},
+articleno = {9},
+numpages = {10},
+keywords = {signal temporal logic, formal methods, machine learning, cyber-physical systems, time-series data, interpretability},
+location = {Sydney, New South Wales, Australia},
+series = {HSCC '20}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@INPROCEEDINGS{ICCPS20,
+	abbr={ICCPS},
+	author={Mohammadinejad, Sara and Deshmukh, Jyotirmoy V. and Puranic, Aniruddh G.}, 
+	booktitle={2020 ACM/IEEE 11th International Conference on Cyber-Physical Systems (ICCPS)},  
+	title={Mining Environment Assumptions for Cyber-Physical System Models},   
+	year={2020}, 
+	volume={},  
+	number={},  
+	pages={87-97},  
+	doi={10.1109/ICCPS48487.2020.00016}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{KECK19,
+	author = {Aniruddh Puranic  and Jian Chen*  and Jessica Nguyen  and Jyotirmoy Deshmukh  and Andrew Hung },
+	title = {MP35-04 AUTOMATED EVALUATION OF INSTRUMENT FORCE SENSITIVITY DURING ROBOTIC SUTURING UTILIZING VISION-BASED MACHINE LEARNING},
+	journal = {Journal of Urology},
+	volume = {201},
+	number = {Supplement 4},
+	pages = {e505-e506},
+	year = {2019},
+	doi = {10.1097/01.JU.0000555994.79498.94},
+	URL = {https://www.auajournals.org/doi/abs/10.1097/01.JU.0000555994.79498.94},
+	eprint = {https://www.auajournals.org/doi/pdf/10.1097/01.JU.0000555994.79498.94}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@INPROCEEDINGS{DATE19,  
+	author={Balakrishnan, Anand and Puranic, Aniruddh G. and Qin, Xin and Dokhanchi, Adel and Deshmukh, Jyotirmoy V. and Ben Amor, Heni and Fainekos, Georgios},  
+	booktitle={2019 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},  
+	title={Specifying and Evaluating Quality Metrics for Vision-based Perception Systems},  
+	year={2019},  
+	volume={},  
+	number={},  
+	pages={1433-1438},  
+	doi={10.23919/DATE.2019.8715114}
+}
+
+@article{ANPR16,
+  title={Vehicle Number Plate Recognition System: A Literature Review and Implementation using Template Matching},
+  author={Aniruddh Gopinath Puranic and Kanwar Deepak and V. Umadevi},
+  journal={International Journal of Computer Applications},
+  year={2016},
+  volume={134},
+  pages={12-16}
+}
+
+@inproceedings{HSCCPoster22,
+abbr={HSCC},
+author = {Puranic, Aniruddh and Deshmukh, Jyotirmoy and Nikolaidis, Stefanos},
+title = {Poster Abstract: Learning from Demonstrations with Temporal Logics},
+year = {2022},
+isbn = {9781450391962},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3501710.3524914},
+doi = {10.1145/3501710.3524914},
+abstract = {Learning-from-demonstrations (LfD) is a popular paradigm to obtain effective robot control policies for complex tasks via reinforcement learning without the need to explicitly design reward functions. However, it is susceptible to imperfections in demonstrations and also raises concerns of safety and interpretability in the learned control policies. To address these issues, we propose to use Signal Temporal Logic (STL) to express high-level robotic tasks and use its quantitative semantics to evaluate and rank the quality of demonstrations. Temporal logic-based specifications allow us to create non-Markovian rewards, and are also capable of defining interesting causal dependencies between tasks such as sequential task specifications. We present our completed work that proposed LfD-STL framework that learns from even suboptimal/imperfect demonstrations and STL specifications to infer rewards for reinforcement learning tasks. We have validated our approach through various experimental setups to show how our method outperforms prior LfD methods. We then discuss future directions for tackling the problem of explainability and interpretability in such learning-based systems.},
+booktitle = {25th ACM International Conference on Hybrid Systems: Computation and Control},
+articleno = {29},
+numpages = {2},
+keywords = {demonstrations, temporal logic, reward inference, imitation, reinforcement learning},
+location = {Milan, Italy},
+series = {HSCC '22}
 }

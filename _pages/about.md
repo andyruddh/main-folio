@@ -2,24 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.cs.usc.edu'>University of Southern California (USC)</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>941 Bloom Walk</p>
+    <p>SAL 104</p>
+    <p>Los Angeles, CA 90089, USA</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science PhD candidate at USC. My research interests are in safe human-robot interactions, robot learning from demonstrations and verification of autonomous cyber-physical systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from B.M.S College of Engineering, India in 2016.
+
+Visit this [page](/mypages/academics.md) for more information about my research and academic activities, or view my resume [here](/files/Aniruddh_CV.pdf).
+
+## Music
+
+I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My music consists of raw and hypnotic techno inspired by my favorite artists: The Chemical Brothers, deadmau5, [Monstergetdown](https://soundcloud.com/monstergetdown), Surgeon, Oscar Mulero, and artists from Underground Resistance, Tresor Berlin, Pole Group, etc. 
+
+You can find my discography [here](/mypages/hobbies.md).

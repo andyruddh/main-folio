@@ -1,6 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CoRL":
+  url: https://sites.google.com/robot-learning.org/corl2020?pli=1
+  color: "#00563d"
