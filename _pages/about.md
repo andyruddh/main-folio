@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>941 Bloom Walk</p>
-    <p>SAL 104</p>
+    <p>941 Bloom Walk, SAL 104</p>
     <p>Los Angeles, CA 90089, USA</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -24,10 +23,16 @@ I was a research intern during Summer 2022 at [SRI International](https://www.sr
 
 I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from B.M.S College of Engineering, India in 2016.
 
-Visit this [page](/mypages/academics.md) for more information about my research and academic activities, or view my resume [here](/files/Aniruddh_CV.pdf).
+Visit this [page](/publications/) for more information about my research and academic activities, or view my resume [here](/cv/).
 
-## Music
+## music
 
 I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My music consists of raw and hypnotic techno inspired by my favorite artists: The Chemical Brothers, deadmau5, [Monstergetdown](https://soundcloud.com/monstergetdown), Surgeon, Oscar Mulero, and artists from Underground Resistance, Tresor Berlin, Pole Group, etc. 
 
-You can find my discography [here](/mypages/hobbies.md).
+You can find my discography [here](/fun/).
+
+## e-mails
+
+- USC (Academic only): puranic[at]usc[dot]edu
+
+- Personal: andyruddh[at]gmail[dot]com
