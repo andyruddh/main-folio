@@ -33,6 +33,6 @@ You can find my discography [here](/fun/).
 
 ## e-mails
 
-- USC (Academic only): puranic[at]usc[dot]edu
+- USC (Academic only): **puranic**[at]**usc**[dot]**edu**
 
-- Personal: andyruddh[at]gmail[dot]com
+- Personal: **andyruddh**[at]**gmail**[dot]**com**

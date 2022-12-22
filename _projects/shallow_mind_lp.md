@@ -7,7 +7,7 @@ importance: 1
 category: music
 ---
 
-This is my first self-released album/LP featuring 10 tracks.
+This is my first self-released album/LP featuring 10 tracks. Released on July 10, 2022.
 
 Links:
 

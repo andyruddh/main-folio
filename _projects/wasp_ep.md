@@ -7,7 +7,7 @@ importance: 2
 category: music
 ---
 
-This is my first self-released 3-track EP.
+This is my first self-released 3-track EP. Released on May 3, 2022.
 
 Links:
 
