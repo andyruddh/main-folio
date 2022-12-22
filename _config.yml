@@ -90,6 +90,7 @@ stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
+bandcamp_id: true # show bandcamp link
 soundcloud_id: andyruddh # your soundcloud id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
