@@ -48,7 +48,9 @@
   type: nested_list
   contents:
     - title: Co-curricular activities.
-      items: 
+      items:
+        - Invited talk at the <a href="https://interactive.mit.edu/" target="blank0">Interactive Robotics Group</a> (MIT AeroAstro/CSAIL) on "Learning from Demonstrations with Temporal Logic Task Specifications", January 2023
+        - Poster and demo program committee member for <a href="https://hscc.acm.org/2023/" target="blank0">HSCC 2023</a>
         - Review Editor for <a href="https://www.frontiersin.org/journals/robotics-and-ai/sections/human-robot-interaction" target="blank0">"Frontiers in Robotics and AI&#58; Human-Robot Interaction"</a>
         - Invited talk at <a href="https://galois.com" target="blank0">Galois, Inc.</a> on "Reinforcement Learning from Demonstrations with Temporal Logics", March 2021
         - 1 US patent (number <b>11,394,612</b>) granted&#58; <i>Distributed systems and extracting configurations for edge servers using driving scenario awareness</i>
