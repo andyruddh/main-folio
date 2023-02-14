@@ -2,7 +2,7 @@
 layout: page
 title: Imitation EP
 description: label debut
-img: assets/img/imitation_beatportrank.png
+img: assets/img/imitation_ep.jpg
 importance: 1
 category: music
 ---
@@ -19,6 +19,6 @@ Buy links:
 
 You can also stream on your favorite platform like [Soundcloud](https://soundcloud.com/trau-ma/sets/andy-ruddh-imitation-ep-trm246), Spotify, Apple Music, etc.
 
-The EP reached its highest ranking of **#32** on the Beatport Global Techno charts.
+The EP reached its highest ranking of **#31** on the Beatport Global Techno charts.
 
-![Beatport Global Techno Charts](/assets/img/imitation_beatportrank.png)
+![Beatport Global Techno Charts](/assets/img/imitationEP_beatport31_RDH.png)
