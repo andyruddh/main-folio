@@ -21,4 +21,4 @@ You can also stream on your favorite platform like [Soundcloud](https://soundclo
 
 The EP reached its highest ranking of **#31** on the Beatport Global Techno charts.
 
-![Beatport Global Techno Charts](/assets/img/imitationEP_beatport31_RDH.png)
+<img src="/assets/img/imitationEP_beatport31_RDH.png" alt="Beatport Global Techno Charts" width="900" height="600" title="Beatport Global Techno Charts">
