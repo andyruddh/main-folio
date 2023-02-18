@@ -1,8 +1,10 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: cv
+permalink: /cv/
 nav: true
 nav_order: 4
-cv_pdf: resume.pdf
+horizontal: false
 ---
+
+<iframe width="100%" height="800" src="/assets/pdf/resume.pdf">

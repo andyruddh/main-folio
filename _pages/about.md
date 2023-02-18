@@ -17,13 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science PhD candidate at USC. My research interests are in safe human-robot interactions, robot learning from demonstrations and verification of autonomous cyber-physical systems.
+I am a Computer Science PhD candidate at USC. My research interests are in safe human-robot interactions, robot learning from demonstrations, reinforcement learning and formal verification of autonomous cyber-physical systems.
 
 I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
 I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from B.M.S College of Engineering, India in 2016.
 
-Visit this [page](/publications/) for more information about my research and academic activities, or view my resume [here](/cv/).
+Visit this [page](/publications/) for more information about my research and academic activities. View my resume [here](/cv/).
 
 ## music
 

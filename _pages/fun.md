@@ -2,7 +2,7 @@
 layout: page
 title: fun
 permalink: /fun/
-description: my music producer and tennis life
+description: my music and tennis
 nav: true
 nav_order: 3
 display_categories: [music, tennis]
