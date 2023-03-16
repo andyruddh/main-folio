@@ -27,7 +27,7 @@ Visit this [page](/publications/) for more information about my research and aca
 
 ## music
 
-I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My music consists of raw and hypnotic techno inspired by my favorite artists: Surgeon, Oscar Mulero, and Sleeparchive. 
+I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My sounds consist of raw and hypnotic techno.
 
 You can find my discography [here](/fun/).
 
