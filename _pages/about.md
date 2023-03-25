@@ -27,7 +27,7 @@ Visit this [page](/publications/) for more information about my research and aca
 
 ## music
 
-I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My sounds consist of raw and hypnotic techno.
+I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh). My sounds consist of raw and hypnotic techno. My music has been supported by **Richie Hawtin**, a pioneer of this genre.
 
 You can find my discography [here](/fun/).
 
