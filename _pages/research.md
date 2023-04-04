@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: my music and tennis
+description: my research highlights
 nav: true
 nav_order: 1
 display_categories: [research]
