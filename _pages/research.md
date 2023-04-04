@@ -1,11 +1,11 @@
 ---
 layout: page
-title: fun
-permalink: /fun/
+title: research
+permalink: /research/
 description: my music and tennis
 nav: true
-nav_order: 4
-display_categories: [music, tennis]
+nav_order: 1
+display_categories: [research]
 horizontal: false
 ---
 

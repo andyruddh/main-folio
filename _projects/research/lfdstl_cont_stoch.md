@@ -1,0 +1,12 @@
+---
+layout: page
+title: LfD with STL - Part 2
+description: LfD with STL for continuous spaces and stochastic environment
+img: assets/img/publication_preview/ral_iros2021.png
+importance: 2
+category: research
+---
+
+Our prior LfD-STL framework was only applicable to discrete spaces. In this paper, we extend the framework to continuous spaces and stochastic environment and discuss how our framework performs in realistic environments.
+
+- [Paper](https://ieeexplore.ieee.org/abstract/document/9465661/)

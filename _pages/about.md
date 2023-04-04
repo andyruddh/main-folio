@@ -17,7 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science PhD candidate at USC. My research interests are in safe human-robot interactions, robot learning from demonstrations, reinforcement learning and formal verification of autonomous cyber-physical systems.
+I am a Computer Science PhD candidate at USC co-advised by [Jyotirmoy Deshmukh](https://jdeshmukh.github.io) of [CPS-VIDA](https://cps-vida.github.io) and [Stefanos Nikolaidis](http://stefanosnikolaidis.net) of [ICAROS](http://icaros.usc.edu). My research interests are:
+  - safe human-robot interactions
+  - robot learning from demonstrations
+  - reinforcement learning
+  - formal verification of autonomous cyber-physical systems
 
 I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
