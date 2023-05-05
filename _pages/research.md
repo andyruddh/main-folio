@@ -11,7 +11,16 @@ horizontal: false
 
 <!-- <iframe width="100%" height="800" src="/assets/pdf/research_overview.pdf"> -->
 
-<img width="100%" height="500" src="/assets/img/research_overview.jpg">
+<!-- <img width="100%" height="500" src="/assets/img/.jpg"> -->
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/research_overview.jpg" title="My research overview" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    An overview of my research for developing safe and explainable robots that interact with humans.
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
