@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LfD with STL - Part 1
+title: LfD with STL (1)
 description: LfD with STL for discrete spaces
 img: assets/img/publication_preview/corl2020.png
 importance: 3

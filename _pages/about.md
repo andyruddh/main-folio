@@ -17,17 +17,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science PhD candidate at USC co-advised by [Jyotirmoy Deshmukh](https://jdeshmukh.github.io) of [CPS-VIDA](https://cps-vida.github.io) and [Stefanos Nikolaidis](http://stefanosnikolaidis.net) of [ICAROS](http://icaros.usc.edu). My research interests are:
+I am a Computer Science PhD candidate at USC co-advised by [Jyotirmoy Deshmukh](https://jdeshmukh.github.io) of [CPS-VIDA](https://cps-vida.github.io) and [Stefanos Nikolaidis](http://stefanosnikolaidis.net) of [ICAROS](http://icaros.usc.edu). My research interests include:
   - safe human-robot interactions
-  - robot learning from demonstrations
-  - reinforcement learning
+  - robot learning from demonstrations/imitation learning
+  - (deep) reinforcement learning
   - formal verification of autonomous cyber-physical systems
+  - explainable AI
 
 I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
 I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from B.M.S College of Engineering, India in 2016.
 
-Visit this [page](/publications/) for more information about my research and academic activities. View my resume [here](/cv/).
+Visit this [page](/research/) for an overview of my research and projects, or view my publications [here](/publications/). My resume can be found [here](/cv/).
 
 ## music
 

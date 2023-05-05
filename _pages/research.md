@@ -2,12 +2,16 @@
 layout: page
 title: research
 permalink: /research/
-description: my research highlights
+description: overview of my research and selected projects
 nav: true
 nav_order: 1
 display_categories: [research]
 horizontal: false
 ---
+
+<!-- <iframe width="100%" height="800" src="/assets/pdf/research_overview.pdf"> -->
+
+<img width="100%" height="500" src="/assets/img/research_overview.jpg">
 
 <!-- pages/projects.md -->
 <div class="projects">

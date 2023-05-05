@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shallow Mind LP
+title: Shallow Mind
 description: my first album/LP
 img: assets/img/shallow_mind_lp.jpg
 importance: 1

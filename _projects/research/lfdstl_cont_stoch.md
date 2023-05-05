@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LfD with STL - Part 2
+title: LfD with STL (2)
 description: LfD with STL for continuous spaces and stochastic environment
 img: assets/img/publication_preview/ral_iros2021.png
 importance: 2

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wasp EP
+title: Wasp
 description: my first EP
 img: assets/img/wasp_ep.jpg
 importance: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Imitation EP
-description: label debut
+title: Imitation
+description: label debut with EP
 img: assets/img/imitation_ep.jpg
 importance: 1
 category: music
