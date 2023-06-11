@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LfD with STL (2)
-description: LfD with STL for continuous spaces and stochastic environment
+title: LfD with STL - 2
+description: RA-L and IROS 2021
 img: assets/img/publication_preview/ral_iros2021.png
 importance: 2
 category: research
