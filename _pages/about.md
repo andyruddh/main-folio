@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Computer Science PhD candidate at USC co-advised by [Jyotirmoy Deshmukh](https://jdeshmukh.github.io) of [CPS-VIDA](https://cps-vida.github.io) and [Stefanos Nikolaidis](http://stefanosnikolaidis.net) of [ICAROS](http://icaros.usc.edu). My research interests include:
-  - safe human-robot interactions
+I am a Computer Science PhD candidate at USC, where I am a member of the [ICAROS](http://icaros.usc.edu) and [CPS-VIDA](https://cps-vida.github.io) labs. My research interests include:
+  - language-guided (formal specifications) safe human-robot interactions
   - robot learning from demonstrations/imitation learning
   - (deep) reinforcement learning
   - formal verification of autonomous cyber-physical systems
