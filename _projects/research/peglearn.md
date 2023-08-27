@@ -3,7 +3,7 @@ layout: page
 title: PeGLearn
 description: RA-L and ICRA 2023
 img: assets/img/publication_preview/ral_icra2023.gif
-importance: 1
+importance: 2
 category: research
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: LfD with STL - 2
 description: RA-L and IROS 2021
 img: assets/img/publication_preview/ral_iros2021.png
-importance: 2
+importance: 3
 category: research
 ---
 

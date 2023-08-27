@@ -3,7 +3,7 @@ layout: page
 title: LfD with STL (1)
 description: CoRL 2020
 img: assets/img/publication_preview/corl2020.png
-importance: 3
+importance: 4
 category: research
 ---
 
