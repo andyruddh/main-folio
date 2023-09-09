@@ -22,7 +22,7 @@ I am a Computer Science PhD candidate at USC, where I am a member of the [ICAROS
   - robot learning from demonstrations/imitation learning
   - (deep) reinforcement learning
   - formal verification of autonomous cyber-physical systems
-  - explainable AI
+  - explainable AI for apprenticeship learning
 
 I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
