@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>941 Bloom Walk, SAL 104</p>
     <p>Los Angeles, CA 90089, USA</p>
 
