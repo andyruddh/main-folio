@@ -5,3 +5,7 @@
 "CoRL":
   url: https://sites.google.com/robot-learning.org/corl2020?pli=1
   color: "#00563d"
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#880808"
