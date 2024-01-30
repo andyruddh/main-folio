@@ -8,4 +8,4 @@ cv_pdf: resume.pdf
 description: My latest resume updated November 2023.
 ---
 
-<!-- <iframe width="100%" height="800" src="/assets/pdf/resume.pdf"> -->
+<iframe width="100%" height="800" src="/assets/pdf/resume.pdf">

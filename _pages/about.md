@@ -12,9 +12,10 @@ profile:
     <p>941 Bloom Walk, SAL 104</p>
     <p>Los Angeles, CA 90089, USA</p>
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Computer Science PhD candidate at USC, where I am a member of the [ICAROS](http://icaros.usc.edu) and [CPS-VIDA](https://cps-vida.github.io) labs. My research interests include:
