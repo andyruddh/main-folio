@@ -27,7 +27,7 @@
       institution: B.M.S. College of Engineering, Bangalore, India
       year: 2016
       description:
-        - Computer Science and Engineering   
+        - Computer Science and Engineering
 
 - title: Experience
   type: time_table
@@ -56,7 +56,7 @@
         - 1 US patent (number <b>11,394,612</b>) granted&#58; <i>Distributed systems and extracting configurations for edge servers using driving scenario awareness</i>
         - 3 other US Patent Applications filed
     - title: Interests.
-      items: 
+      items:
         - Reinforcement learning
         - Learning from demonstrations/imitation learning
         - Formal methods and logic-based reasoning, verification

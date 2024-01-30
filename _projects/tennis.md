@@ -40,4 +40,3 @@ category: tennis
 - Main Draw 1<sup>st</sup> round in U-14 category at KIMS Polyflex National Series Tournament held in 2006
 
 - U-12 Singles Semifinalist and U-14 Doubles Pre-Quarterfinalist at NTC SJCE All India Tennis Association Talent Series tournament held in Mysore in 2006
-            
