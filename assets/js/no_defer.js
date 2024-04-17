@@ -11,6 +11,7 @@ $(document).ready(function () {
     if (
       $(this).parents('[class*="news"]').length == 0 &&
       $(this).parents('[class*="card"]').length == 0 &&
+      $(this).parents('[class*="archive"]').length == 0 &&
       $(this).parents("code").length == 0
     ) {
       // make table use bootstrap-table

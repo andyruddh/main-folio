@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have defended my PhD dissertation in Computer Science at USC, and will be graduating in May 2024. I am a member of the [ICAROS](http://icaros.usc.edu) and [CPS-VIDA](https://cps-vida.github.io) labs and my research interests include:
+I will receive my PhD in Computer Science at USC in May 2024. I will then be joining the [University of Maryland, College Park](https://www.umd.edu) as a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu), where I will be working under the mentorship of Prof. [Calin Belta](https://calinbelta.com) and Prof. [John Baras](https://johnbaras.com).
+
+My research interests include:
 
 - neuro-symbolic learning for safe autonomy
 - robot learning from demonstrations/imitation learning
@@ -26,11 +28,11 @@ I have defended my PhD dissertation in Computer Science at USC, and will be grad
 - formal verification of autonomous cyber-physical systems
 - explainable AI for human-robot interactions
 
-<span style="color:red"><b>NOTE:</b></span> _I am seeking postdoc and research positions in the industry from 2024. Visit this [page](/research/) for an overview of my research and projects, or view my publications [here](/publications/). My resume can be found [here](/cv/)._
+<!-- <span style="color:red"><b>NOTE:</b></span> _I am seeking postdoc and research positions in the industry from 2024. Visit this [page](/research/) for an overview of my research and projects, or view my publications [here](/publications/). My resume can be found [here](/cv/)._ -->
+
+I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from Visvesvaraya Technological University (VTU) - B.M.S College of Engineering, India in 2016.
 
 I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
-
-I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from B.M.S College of Engineering, India in 2016.
 
 ## music
 
