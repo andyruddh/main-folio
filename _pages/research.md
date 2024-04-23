@@ -33,14 +33,14 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
       {% include projects.liquid %}
     {%- endfor %}
@@ -59,14 +59,14 @@ horizontal: false
 {% if page.horizontal -%}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="row row-cols-1 row-cols-md-2">
     {%- for project in sorted_projects -%}
       {% include projects.liquid %}
     {%- endfor %}
