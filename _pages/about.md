@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.usc.edu'>University of Southern California (USC)</a>
+subtitle: <a href='https://usc.edu'>University of Southern California</a>
 
 profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>941 Bloom Walk, SAL 104</p>
-    <p>Los Angeles, CA 90089, USA</p>
+    <p>Los Angeles</p>
+    <p>CA, 90007 USA</p>
 
 news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I will receive my PhD in Computer Science at USC in May 2024. I will then be joining the [University of Maryland, College Park](https://www.umd.edu) as a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu), where I will be working under the mentorship of Prof. [Calin Belta](https://calinbelta.com) and Prof. [John Baras](https://johnbaras.com).
+I will be joining the [University of Maryland, College Park](https://umd.edu) as a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu), where I will be working under the mentorship of Prof. [John Baras](https://johnbaras.com) and Prof. [Calin Belta](https://calinbelta.com).
 
 My research interests include:
 
@@ -30,15 +29,9 @@ My research interests include:
 
 <!-- <span style="color:red"><b>NOTE:</b></span> _I am seeking postdoc and research positions in the industry from 2024. Visit this [page](/research/) for an overview of my research and projects, or view my publications [here](/publications/). My resume can be found [here](/cv/)._ -->
 
-I graduated with a masters in Computer Science (Intelligent Robotics specialization) from USC in 2018 and received my bachelors from Visvesvaraya Technological University (VTU) - B.M.S College of Engineering, India in 2016.
+I received my Ph.D. in Computer Science at the [University of Southern California (USC)](https://usc.edu) in 2024. Previously, I received the M.S. degree in Computer Science (Intelligent Robotics specialization) from USC in 2018, and my B.E. in Computer Science and Engineering from Visvesvaraya Technological University (VTU) - [B.M.S College of Engineering](https://bmsce.ac.in), India in 2016.
 
-I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the PhD program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at Toyota North America - InfoTech Labs (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
-
-## music
-
-I am also an electronic music producer under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh) and my sounds consist of raw and hypnotic techno. My music has been supported by **Richie Hawtin**, a pioneer of this genre. My label-debut EP reached its highest ranking of **#31** on the Beatport Global Techno charts in February 2023.
-
-You can find my discography [here](/fun/).
+I was a research intern during Summer 2022 at [SRI International](https://www.sri.com/)'s Center for Vision Technologies (CVT), working on lifelong learning. Prior to joining the Ph.D. program, I was a Researcher in the Intelligent Connected Systems (ICS) Division at [Toyota North America - InfoTech Labs](https://amrd.toyota.com/division/itl/) (formerly, Toyota InfoTechnology Center) where I worked on data-driven formal specification for connected vehicle applications using edge computing.
 
 ## e-mails
 

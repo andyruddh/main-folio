@@ -8,4 +8,8 @@
 
 "arXiv":
   url: https://arxiv.org
-  color: "#880808"
+  color: "#E43D30"
+
+"Dissertation":
+  url: https://digitallibrary.usc.edu/asset-management/2A3BF1M106B1V
+  color: "#990000"

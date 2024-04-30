@@ -1,13 +1,17 @@
 ---
 layout: page
-title: fun
-permalink: /fun/
+title: hobbies
+permalink: /hobbies/
 description: my music and tennis
 nav: true
 nav_order: 4
 display_categories: [music, tennis]
 horizontal: false
 ---
+
+I produce electronic music under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh) and my sounds consist of raw and hypnotic techno. My music has been supported by **Richie Hawtin**, a pioneer of this genre. My label-debut EP reached its highest ranking of **#31** on the Beatport Global Techno charts in February 2023.
+
+I was previously a junior tennis player in the Indian and Asian circuits.
 
 <!-- pages/projects.md -->
 <div class="projects">
