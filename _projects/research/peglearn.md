@@ -11,6 +11,6 @@ Our prior work in LfD-STL required the demonstrators to explicitly specify their
 
 This paper was published in IEEE Robotics and Automation Letters (RA-L). It was **one of the 10 papers** in the _Reinforcement Learning_ category accepted for oral presentation at the 2023 IEEE International Conference on Robotics and Automation (ICRA).
 
-- [Paper](https://ieeexplore.ieee.org/abstract/document/9968087/)
+- Paper: <https://ieeexplore.ieee.org/abstract/document/9968087/>
 
 - [Supplemental File](/assets/pdf/peglearn_supp.pdf)

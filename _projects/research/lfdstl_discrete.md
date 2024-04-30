@@ -11,6 +11,6 @@ In this paper, we propose a learning-from-demonstrations (LfD) framework that us
 
 This paper was presented at the Conference on Robot Learning (CoRL) 2020.
 
-- [Paper](https://proceedings.mlr.press/v155/puranic21a.html)
+- Paper: <https://proceedings.mlr.press/v155/puranic21a.html>
 
 - [Video](https://corlconf.github.io/corl2020/paper_498/)

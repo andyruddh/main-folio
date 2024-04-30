@@ -9,6 +9,6 @@ category: research
 
 The link to my latest work on neuro-symbolic apprenticeship learning is below.
 
-- [arXiv pdf](https://arxiv.org/pdf/2311.05084.pdf)
+- arXiv: <https://arxiv.org/pdf/2311.05084.pdf>
 
 - [Supplemental](https://aniruddh-puranic.info/assets/pdf/alstl_supp.pdf)
