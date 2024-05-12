@@ -11,4 +11,4 @@ Our prior LfD-STL framework was only applicable to discrete spaces. In this pape
 
 This paper was published in IEEE Robotics and Automation Letters (RA-L) and was presented at the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
-- Paper: <https://ieeexplore.ieee.org/abstract/document/9465661/>
+- [Paper](https://ieeexplore.ieee.org/abstract/document/9465661)
