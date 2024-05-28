@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I will be joining the [University of Maryland at College Park](https://umd.edu) as a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu), where I will be working under the mentorship of Prof. [John S. Baras](https://johnbaras.com) and Prof. [Calin Belta](https://calinbelta.com).
+I am a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu) at the [University of Maryland - College Park](https://umd.edu), working under the mentorship of Prof. [John S. Baras](https://johnbaras.com) and Prof. [Calin Belta](https://calinbelta.com).
 
 My research interests include:
 
@@ -35,6 +35,6 @@ I was a research intern during Summer 2022 at [SRI International](https://www.sr
 
 ## e-mails
 
-- UMD: _coming soon_
+- UMD: **puranic**[at]**umd**[dot]**edu**
 
 - Personal and USC-related: **andyruddh**[at]**gmail**[dot]**com**
