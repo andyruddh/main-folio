@@ -35,6 +35,6 @@ I was a research intern during Summer 2022 at [SRI International](https://www.sr
 
 ## e-mails
 
-- UMD: **puranic**[at]**umd**[dot]**edu**
+- UMD (Academic only): **puranic**[at]**umd**[dot]**edu**
 
-- Personal and USC-related: **andyruddh**[at]**gmail**[dot]**com**
+- Personal: **andyruddh**[at]**gmail**[dot]**com**
