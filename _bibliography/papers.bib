@@ -7,27 +7,24 @@
   year    = {2024},
   type    = {PhD Dissertation},
   address = {Los Angeles, CA, USA},
-  month   = {May},
   html    = {https://digitallibrary.usc.edu/asset-management/2A3BF1M106B1V},
   pdf    = {https://digitallibrary.usc.edu/asset-management/2A3BF1M106B1V},
   abstract= {The thesis introduces a novel neurosymbolic learning framework aimed at enhancing the paradigm of learning-from-demonstrations (LfD) to obtain robot control policies. By integrating neural network-based learning with symbolic reasoning, it addresses the challenges posed by imperfect demonstrations and the concerns regarding safety and interpretability in the learned control policies. This innovative approach utilizes Signal Temporal Logic (STL) for expressing high-level robotic tasks and evaluating the quality of demonstrations. STL allows for the creation of non-Markovian rewards and describe causal dependencies between tasks, such as sequential specifications, making it a powerful tool within this framework. Through the LfD-STL framework, reward functions are inferred from suboptimal demonstrations and STL specifications, subsequently utilized by reinforcement learning (RL) algorithms to derive control policies. Extensive experimental evaluations conducted across diverse environments highlight how this framework outperforms prior state-of-the-art LfD methods. In real-world scenarios, robotic tasks often involve multiple objectives, some of which may inherently conflict, necessitating careful trade-offs. To address this challenge, the thesis extends the LfD-STL framework by introducing performance graphs, which are directed graphs that leverage the quality of demonstrations to provide intuitive explanations regarding performance and trade-offs. These performance graphs not only enhance interpretability but also offer valuable insights into the learning process of RL agents, as confirmed by a user study. Furthermore, they serve as an optimization objective in apprenticeship learning (AL), potentially guiding RL agents to learn policies that outperform the (imperfect) demonstrators. The theoretical analysis within the AL-STL framework provides guarantees in the robustness and performance of RL agents.}
 }
 
-@misc{PDN_ALSTL,
-	  abbr={arXiv},
-	  bibtex_show={true},
-      title={Signal Temporal Logic-Guided Apprenticeship Learning}, 
-      author={Aniruddh G. Puranic and Jyotirmoy V. Deshmukh and Stefanos Nikolaidis},
-      year={2023},
-      eprint={2311.05084},
-	  arxiv={2311.05084},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-	  abstract={Apprenticeship learning crucially depends on effectively learning rewards, and hence control policies from user demonstrations. Of particular difficulty is the setting where the desired task consists of a number of sub-goals with temporal dependencies. The quality of inferred rewards and hence policies are typically limited by the quality of demonstrations, and poor inference of these can lead to undesirable outcomes. In this letter, we show how temporal logic specifications that describe high level task objectives, are encoded in a graph to define a temporal-based metric that reasons about behaviors of demonstrators and the learner agent to improve the quality of inferred rewards and policies. Through experiments on a diverse set of robot manipulator simulations, we show how our framework overcomes the drawbacks of prior literature by drastically improving the number of demonstrations required to learn a control policy.}
+@inproceedings{PDN_ALSTL,
+	abbr={Conference},
+	bibtex_show={true},
+	title={Signal Temporal Logic-Guided Apprenticeship Learning}, 
+    author={Aniruddh G. Puranic and Jyotirmoy V. Deshmukh and Stefanos Nikolaidis},
+	booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year={2024},
+	location = {To Appear},
+	abstract={Apprenticeship learning crucially depends on effectively learning rewards, and hence control policies from user demonstrations. Of particular difficulty is the setting where the desired task consists of a number of sub-goals with temporal dependencies. The quality of inferred rewards and hence policies are typically limited by the quality of demonstrations, and poor inference of these can lead to undesirable outcomes. In this letter, we show how temporal logic specifications that describe high level task objectives, are encoded in a graph to define a temporal-based metric that reasons about behaviors of demonstrators and the learner agent to improve the quality of inferred rewards and policies. Through experiments on a diverse set of robot manipulator simulations, we show how our framework overcomes the drawbacks of prior literature by drastically improving the number of demonstrations required to learn a control policy.}
 }
 
-@ARTICLE{PDN23,
-	abbr={RA-L},
+@article{PDN23,
+	abbr={Journal},
 	bibtex_show={true},
 	author={Puranic, Aniruddh G. and Deshmukh, Jyotirmoy V. and Nikolaidis, Stefanos},
 	journal={IEEE Robotics and Automation Letters (RA-L). Oral presentation at ICRA},
@@ -43,8 +40,8 @@
 	supp={peglearn_supp.pdf},
 }
 
-@ARTICLE{PDN21,
-	abbr={RA-L},
+@article{PDN21,
+	abbr={Journal},
 	bibtex_show={true},
 	author={Puranic, Aniruddh G. and Deshmukh, Jyotirmoy V. and Nikolaidis, Stefanos},  
 	journal={IEEE Robotics and Automation Letters (RA-L). Presented at IROS},   
@@ -59,12 +56,12 @@
 	doi={10.1109/LRA.2021.3092676},
 }
 
-@InProceedings{PDN20,
-  abbr={CoRL},
+@inproceedings{PDN20,
+  abbr={Conference},
   bibtex_show={true},
   title = 	 {Learning from Demonstrations using Signal Temporal Logic},
   author =       {Puranic, Aniruddh and Deshmukh, Jyotirmoy and Nikolaidis, Stefanos},
-  booktitle = 	 {Proceedings of the 2020 Conference on Robot Learning},
+  booktitle = 	 {Proceedings of the 2020 Conference on Robot Learning (CoRL)},
   pages = 	 {2228--2242},
   year = 	 {2021},
   volume = 	 {155},
@@ -77,7 +74,7 @@
 }
 
 @inproceedings{HSCC20,
-abbr={HSCC},
+abbr={Conference},
 bibtex_show={true},
 author = {Mohammadinejad, Sara and Deshmukh, Jyotirmoy V. and Puranic, Aniruddh G. and Vazquez-Chanlatte, Marcell and Donz\'{e}, Alexandre},
 title = {Interpretable Classification of Time-Series Data Using Efficient Enumerative Techniques},
@@ -88,7 +85,7 @@ address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3365365.3382218},
 doi = {10.1145/3365365.3382218},
 abstract = {Cyber-physical system applications such as autonomous vehicles, wearable devices, and avionic systems generate a large volume of time-series data. Designers often look for tools to help classify and categorize the data. Traditional machine learning techniques for time-series data offer several solutions to solve these problems; however, the artifacts trained by these algorithms often lack interpretability. On the other hand, temporal logic, such as Signal Temporal Logic (STL) have been successfully used in the formal methods community as specifications of time-series behaviors. In this work, we propose a new technique to automatically learn temporal logic formulas that are able to classify real-valued time-series data. Previous work on learning STL formulas from data either assumes a formula-template to be given by the user, or assumes some special fragment of STL that enables exploring the formula structure in a systematic fashion. In our technique, we relax these assumptions, and provide a way to systematically explore the space of all STL formulas. As the space of all STL formulas is very large, and contains many semantically equivalent formulas, we suggest a technique to heuristically prune the space of formulas considered. Finally, we illustrate our technique on various case studies from the automotive and transportation domains.},
-booktitle = {Proceedings of the 23rd International Conference on Hybrid Systems: Computation and Control},
+booktitle = {Proceedings of the 23rd International Conference on Hybrid Systems: Computation and Control (HSCC)},
 articleno = {9},
 numpages = {10},
 keywords = {signal temporal logic, formal methods, machine learning, cyber-physical systems, time-series data, interpretability},
@@ -96,8 +93,8 @@ location = {Sydney, New South Wales, Australia},
 series = {HSCC '20}
 }
 
-@INPROCEEDINGS{ICCPS20,
-	abbr={ICCPS},
+@inproceedings{ICCPS20,
+	abbr={Conference},
 	bibtex_show={true},
 	author={Mohammadinejad, Sara and Deshmukh, Jyotirmoy V. and Puranic, Aniruddh G.}, 
 	booktitle={2020 ACM/IEEE 11th International Conference on Cyber-Physical Systems (ICCPS)},  
@@ -110,8 +107,9 @@ series = {HSCC '20}
 }
 
 @article{KECK19,
+	abbr={Poster},
 	author = {Aniruddh Puranic  and Jian Chen*  and Jessica Nguyen  and Jyotirmoy Deshmukh  and Andrew Hung },
-	title = {MP35-04 AUTOMATED EVALUATION OF INSTRUMENT FORCE SENSITIVITY DURING ROBOTIC SUTURING UTILIZING VISION-BASED MACHINE LEARNING},
+	title = {MP35-04 Automated Evaluation of Instrument Force Sensitivity During Robotic Suturing Utilizing Vision-Based Machine Learning},
 	journal = {Journal of Urology},
 	volume = {201},
 	number = {Supplement 4},
@@ -122,8 +120,8 @@ series = {HSCC '20}
 	eprint = {https://www.auajournals.org/doi/pdf/10.1097/01.JU.0000555994.79498.94}
 }
 
-@INPROCEEDINGS{DATE19,  
-	abbr={DATE},
+@inproceedings{DATE19,  
+	abbr={Conference},
 	bibtex_show={true},
 	author={Balakrishnan, Anand and Puranic, Aniruddh G. and Qin, Xin and Dokhanchi, Adel and Deshmukh, Jyotirmoy V. and Ben Amor, Heni and Fainekos, Georgios},
 	booktitle={2019 Design, Automation \& Test in Europe Conference \& Exhibition (DATE)},  
@@ -136,16 +134,17 @@ series = {HSCC '20}
 }
 
 @article{ANPR16,
+  abbr={Journal},
   title={Vehicle Number Plate Recognition System: A Literature Review and Implementation using Template Matching},
   author={Aniruddh Gopinath Puranic and Kanwar Deepak and V. Umadevi},
-  journal={International Journal of Computer Applications},
+  journal={International Journal of Computer Applications (IJCA)},
   year={2016},
   volume={134},
   pages={12-16}
 }
 
 @inproceedings{HSCCPoster22,
-abbr={HSCC},
+abbr={Poster},
 author = {Puranic, Aniruddh and Deshmukh, Jyotirmoy and Nikolaidis, Stefanos},
 title = {Poster Abstract: Learning from Demonstrations with Temporal Logics},
 year = {2022},
@@ -155,7 +154,7 @@ address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3501710.3524914},
 doi = {10.1145/3501710.3524914},
 abstract = {Learning-from-demonstrations (LfD) is a popular paradigm to obtain effective robot control policies for complex tasks via reinforcement learning without the need to explicitly design reward functions. However, it is susceptible to imperfections in demonstrations and also raises concerns of safety and interpretability in the learned control policies. To address these issues, we propose to use Signal Temporal Logic (STL) to express high-level robotic tasks and use its quantitative semantics to evaluate and rank the quality of demonstrations. Temporal logic-based specifications allow us to create non-Markovian rewards, and are also capable of defining interesting causal dependencies between tasks such as sequential task specifications. We present our completed work that proposed LfD-STL framework that learns from even suboptimal/imperfect demonstrations and STL specifications to infer rewards for reinforcement learning tasks. We have validated our approach through various experimental setups to show how our method outperforms prior LfD methods. We then discuss future directions for tackling the problem of explainability and interpretability in such learning-based systems.},
-booktitle = {25th ACM International Conference on Hybrid Systems: Computation and Control},
+booktitle = {25th ACM International Conference on Hybrid Systems: Computation and Control (HSCC)},
 articleno = {29},
 numpages = {2},
 keywords = {demonstrations, temporal logic, reward inference, imitation, reinforcement learning},

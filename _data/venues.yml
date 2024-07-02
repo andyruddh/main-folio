@@ -1,14 +1,18 @@
-"RA-L":
+"Journal":
   url: https://www.ieee-ras.org/publications/ra-l
   color: "#00369f"
 
-"CoRL":
+"Conference":
   url: https://sites.google.com/robot-learning.org/corl2020?pli=1
   color: "#00563d"
 
-"arXiv":
+"Poster":
+  url: https://sites.google.com/robot-learning.org/corl2020?pli=1
+  color: "#ad7231"
+
+"Preprint":
   url: https://arxiv.org
-  color: "#E43D30"
+  color: "#454545"
 
 "Dissertation":
   url: https://digitallibrary.usc.edu/asset-management/2A3BF1M106B1V
