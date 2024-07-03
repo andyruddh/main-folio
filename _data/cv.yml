@@ -4,7 +4,7 @@
     - name: Full Name
       value: Aniruddh G. Puranic
     - name: E-mail
-      value: puranic[at]usc[dot]edu
+      value: puranic[at]umd[dot]edu
     - name: Linktree
       value: https://linktr.ee/andyruddh
 
@@ -13,7 +13,7 @@
   contents:
     - title: Doctor of Philosophy (Ph.D.)
       institution: University of Southern California, Los Angeles, USA
-      year: 2023 (expected)
+      year: 2024
       description:
         - Safe human-robot interaction; Learning-from-Demonstrations with Temporal Logics
         - Probabilistic inference of human behaviors via temporal logic-based reward functions
@@ -32,6 +32,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Associate
+      institution: University of Maryland, College Parl, USA
+      year: 2024
+      description:
+        - Institute for Systems Research (ISR)
     - title: Research Intern
       institution: SRI International, Princeton, USA
       year: Summer 2022
