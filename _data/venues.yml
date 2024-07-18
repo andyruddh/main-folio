@@ -1,13 +1,13 @@
 "Journal":
-  url: https://www.ieee-ras.org/publications/ra-l
+  url: ""
   color: "#00369f"
 
 "Conference":
-  url: https://sites.google.com/robot-learning.org/corl2020?pli=1
+  url: ""
   color: "#00563d"
 
 "Poster":
-  url: https://sites.google.com/robot-learning.org/corl2020?pli=1
+  url: ""
   color: "#ad7231"
 
 "Preprint":
