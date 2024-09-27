@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Imitation
-description: label debut with EP
+title: The Docks
+description: EP on Recorded Things
 img: assets/img/docksEP_recordedthings.png
 importance: 1
 category: music
