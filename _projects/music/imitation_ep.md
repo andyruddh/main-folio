@@ -3,13 +3,13 @@ layout: page
 title: Imitation
 description: label debut with EP
 img: assets/img/imitation_ep.jpg
-importance: 1
+importance: 2
 category: music
 ---
 
 Making my debut on a label on the Portuguese techno label [Trau-ma](https://trau-ma.bandcamp.com/).
 
-Release data: February 10, 2023.
+Release date: February 10, 2023.
 
 Buy links:
 
@@ -17,7 +17,7 @@ Buy links:
 
 - [Bandcamp](https://trau-ma.bandcamp.com/album/imitation)
 
-You can also stream on your favorite platform like [Soundcloud](https://soundcloud.com/trau-ma/sets/andy-ruddh-imitation-ep-trm246), Spotify, Apple Music, etc.
+Stream on your favorite platform like [Soundcloud](https://soundcloud.com/trau-ma/sets/andy-ruddh-imitation-ep-trm246), Spotify, Apple Music, etc.
 
 The EP reached its highest ranking of **#31** on the Beatport Global Techno charts.
 
