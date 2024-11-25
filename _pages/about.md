@@ -19,9 +19,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a Postdoctoral Associate in the [Institute for Systems Research (ISR)](https://isr.umd.edu) at the [University of Maryland - College Park](https://umd.edu), working under the mentorship of Prof. [John S. Baras](https://johnbaras.com) and Prof. [Calin Belta](https://calinbelta.com).
 
-My research interests include:
+The theme of my research is _Neuro-Symbolic AI for safe autonomy_, which includes topics such as:
 
-- neuro-symbolic learning for safe autonomy
 - robot learning from demonstrations/imitation learning
 - deep reinforcement learning
 - formal verification of autonomous cyber-physical systems
