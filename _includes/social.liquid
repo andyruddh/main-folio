@@ -1,75 +1,60 @@
-{% if site.email %}
-  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
-{% endif %}
-{% if site.orcid_id %}
-  <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
-{% endif %}
-{% if site.scholar_userid %}
-  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-{% endif %}
-{% if site.inspirehep_id %}
-  <a href="https://inspirehep.net/authors/{{ site.inspirehep_id }}" title="Inspire HEP"><i class="ai ai-inspire"></i></a>
-{% endif %}
-{% if site.semanticscholar_id %}
-  <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
-{% endif %}
-{% if site.publons_id %}
-  <a href="https://publons.com/a/{{ site.publons_id }}/" title="Publons"><i class="ai ai-publons"></i></a>
-{% endif %}
-{% if site.research_gate_profile %}
-  <a href="https://www.researchgate.net/profile/{{site.research_gate_profile}}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
-{% endif %}
-{% if site.ieee_id %}
-  <a href="https://ieeexplore.ieee.org/author/{{site.ieee_id}}/" title="IEEE Xplore"><i class="ai ai-ieee"></i></a>
-{% endif %}
-{% if site.acm_id %}
-  <a href="https://dl.acm.org/profile/{{site.acm_id}}/" title="ACM DL"><i class="ai ai-acm"></i></a>
-{% endif %}
-{% if site.scopus_id %}
-  <a href="https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}" title="Scopus"><i class="ai ai-scopus"></i></a>
-{% endif %}
-{% if site.github_username %}
-  <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
-{% endif %}
-{% if site.linkedin_username %}
-  <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-{% endif %}
-{% if site.x_username %}
-  <a href="https://twitter.com/{{ site.x_username }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
-{% endif %}
-{% if site.work_url %}
-  <a href="{{ site.work_url }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
-{% endif %}
-{% if site.gitlab_username %}
-  <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
-{% endif %}
-{% if site.dblp_url %}
-  <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
-{% endif %}
-{% if site.instagram_id %}
-  <a href="https://instagram.com/{{ site.instagram_id }}" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
-{% endif %}
-{% if site.facebook_id %}
-  <a href="https://facebook.com/{{ site.facebook_id }}" title="Facebook"><i class="fa-brands fa-facebook"></i></a>
-{% endif %}
-{% if site.bluesky_url %}
-  <a href="https://bsky.app/profile/{{ site.bluesky_url }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
-{% endif %}
-{% if site.youtube_id %}
-  <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
-{% endif %}
-{%- if site.soundcloud_id -%}
-  <a href="https://soundcloud.com/{{ site.soundcloud_id }}" title="Soundcloud"><i class="fab fa-soundcloud"></i></a>
-{% endif %}
-{%- if site.bandcamp_id -%}
-  <a href="https://andyruddhmusic.bandcamp.com" title="Bandcamp"><i class="fab fa-bandcamp"></i></a>
-{% endif %}
-{%- if site.linktree_username -%}
-  <a href="https://linktr.ee/{{ site.linktree_username }}" title="Linktree"><i class="fa fa-tree"></i></a>
-{% endif %}
-{% if site.zotero_username %}
-  <a href="https://www.zotero.org/{{ site.zotero_username }}" title="Zotero"><i class="ai ai-zotero"></i></a>
-{% endif %}
-{% if site.rss_icon %}
-  <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
-{% endif %}
+{% for social in site.data.socials %}
+  {% case social[0] %}
+    {% when 'acm_id' %}
+      <a href="https://dl.acm.org/profile/{{ social[1] }}/" title="ACM DL"><i class="ai ai-acm"></i></a>
+    {% when 'bandcamp_id' %}
+      <a href="https://andyruddhmusic.bandcamp.com" title="Bandcamp"><i class="fa-brands fa-bandcamp"></i></a>
+    {% when 'dblp_url' %}
+      <a href="{{ social[1] }}" title="DBLP"><i class="ai ai-dblp"></i></a>
+    {% when 'email' %}
+      <a href="mailto:{{ social[1] | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+    {% when 'github_username' %}
+      <a href="https://github.com/{{ social[1] }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+    {% when 'gitlab_username' %}
+      <a href="https://gitlab.com/{{ social[1] }}" title="GitLab"><i class="fa-brands fa-gitlab"></i></a>
+    {% when 'ieee_id' %}
+      <a href="https://ieeexplore.ieee.org/author/{{ social[1] }}/" title="IEEE Xplore"><i class="ai ai-ieee"></i></a>
+    {% when 'instagram_id' %}
+      <a href="https://instagram.com/{{ social[1] }}" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+    {% when 'linkedin_username' %}
+      <a href="https://www.linkedin.com/in/{{ social[1] }}" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+    {% when 'linktree_username' %}
+      <a href="https://linktr.ee/{{ social[1] }}" title="Linktree"><i class="fa-solid fa-tree"></i></a>
+    {% when 'orcid_id' %}
+      <a href="https://orcid.org/{{ social[1] }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+    {% when 'publons_id' %}
+      <a href="https://publons.com/a/{{ social[1] }}/" title="Publons"><i class="ai ai-publons"></i></a>
+    {% when 'research_gate_profile' %}
+      <a href="https://www.researchgate.net/profile/{{ social[1] }}/" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+    {% when 'rss_icon' %}
+      <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
+    {% when 'scholar_userid' %}
+      <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    {% when 'scopus_id' %}
+      <a href="https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}" title="Scopus"><i class="ai ai-scopus"></i></a>
+    {% when 'semanticscholar_id' %}
+      <a href="https://www.semanticscholar.org/author/{{ social[1] }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
+    {% when 'spotify_id' %}
+      <a href="https://open.spotify.com/user/{{ social[1] }}" title="Spotify"><i class="fa-brands fa-spotify"></i></a>
+    {% when 'soundcloud_id' %}
+      <a href="https://soundcloud.com/{{ social[1] }}" title="Soundcloud"><i class="fa-brands fa-soundcloud"></i></a>
+    {% when 'work_url' %}
+      <a href="{{ social[1] }}" title="Work"><i class="fa-solid fa-briefcase"></i></a>
+    {% when 'youtube_id' %}
+      <a href="https://youtube.com/@{{ social[1] }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+    {% else %}
+      <a href="{{ social[1].url }}" title="{{ social[1].title }}">
+        {% assign file_ext = social[1].logo | split: '.' | last %}
+        {% if file_ext == 'svg' %}
+          <svg>
+            <image xlink:href="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}" />
+          </svg>
+        {% else %}
+          <img
+            src="{% if social[1].logo contains '://' %}{{ social[1].logo }}{% else %}{{ social[1].logo | relative_url }}{% endif %}"
+            alt="{{ social[1].title }}"
+          >
+        {% endif %}
+      </a>
+  {% endcase %}
+{% endfor %}

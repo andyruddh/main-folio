@@ -1,0 +1,14 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+
+github_username: andyruddh # your GitHub user name
+linktree_username: andyruddh # Linktree username
+linkedin_username: andyruddh # your LinkedIn user name
+scholar_userid: 6Ava7scAAAAJ # your Google Scholar ID
+dblp_url: https://dblp.org/pid/241/0889.html # your DBLP profile url
+bandcamp_id: true # show bandcamp link
+soundcloud_id: andyruddh # your soundcloud id
+instagram_id: andyruddh # your instagram id
+youtube_id: andyruddh # your youtube channel id (youtube.com/@<youtube_id>)
+rss_icon: true # set to true to show the RSS icon

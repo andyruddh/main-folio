@@ -12,17 +12,21 @@
   abstract= {The thesis introduces a novel neurosymbolic learning framework aimed at enhancing the paradigm of learning-from-demonstrations (LfD) to obtain robot control policies. By integrating neural network-based learning with symbolic reasoning, it addresses the challenges posed by imperfect demonstrations and the concerns regarding safety and interpretability in the learned control policies. This innovative approach utilizes Signal Temporal Logic (STL) for expressing high-level robotic tasks and evaluating the quality of demonstrations. STL allows for the creation of non-Markovian rewards and describe causal dependencies between tasks, such as sequential specifications, making it a powerful tool within this framework. Through the LfD-STL framework, reward functions are inferred from suboptimal demonstrations and STL specifications, subsequently utilized by reinforcement learning (RL) algorithms to derive control policies. Extensive experimental evaluations conducted across diverse environments highlight how this framework outperforms prior state-of-the-art LfD methods. In real-world scenarios, robotic tasks often involve multiple objectives, some of which may inherently conflict, necessitating careful trade-offs. To address this challenge, the thesis extends the LfD-STL framework by introducing performance graphs, which are directed graphs that leverage the quality of demonstrations to provide intuitive explanations regarding performance and trade-offs. These performance graphs not only enhance interpretability but also offer valuable insights into the learning process of RL agents, as confirmed by a user study. Furthermore, they serve as an optimization objective in apprenticeship learning (AL), potentially guiding RL agents to learn policies that outperform the (imperfect) demonstrators. The theoretical analysis within the AL-STL framework provides guarantees in the robustness and performance of RL agents.}
 }
 
-@inproceedings{PDN_ALSTL,
-	abbr={Conference},
-	bibtex_show={true},
-	title={Signal Temporal Logic-Guided Apprenticeship Learning}, 
-    author={Aniruddh G. Puranic and Jyotirmoy V. Deshmukh and Stefanos Nikolaidis},
-	booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-    year={2024},
-	location = {Abu Dhabi, United Arab Emirates},
-	note = {Oral Presentation},
-	arxiv={2311.05084},
-	abstract={Apprenticeship learning crucially depends on effectively learning rewards, and hence control policies from user demonstrations. Of particular difficulty is the setting where the desired task consists of a number of sub-goals with temporal dependencies. The quality of inferred rewards and hence policies are typically limited by the quality of demonstrations, and poor inference of these can lead to undesirable outcomes. In this letter, we show how temporal logic specifications that describe high level task objectives, are encoded in a graph to define a temporal-based metric that reasons about behaviors of demonstrators and the learner agent to improve the quality of inferred rewards and policies. Through experiments on a diverse set of robot manipulator simulations, we show how our framework overcomes the drawbacks of prior literature by drastically improving the number of demonstrations required to learn a control policy.}
+@INPROCEEDINGS{PDN_ALSTL,
+  abbr={Conference},
+  bibtex_show={true},
+  author={Puranic, Aniruddh G. and Deshmukh, Jyotirmoy V. and Nikolaidis, Stefanos},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Signal Temporal Logic-Guided Apprenticeship Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={11147-11154},
+  keywords={Measurement;Manipulators;Logic;Optimization;Intelligent robots},
+  doi={10.1109/IROS58592.2024.10801924},
+  html={https://ieeexplore.ieee.org/document/10801924},
+  arxiv={2311.05084},
+  supp={alstl_supp.pdf}
 }
 
 @article{PDN23,
