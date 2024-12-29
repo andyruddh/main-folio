@@ -54,6 +54,11 @@ ninja.data = [{
           description: "label debut with EP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/imitation_ep/";
+            },},{id: "projects-sampler-two",
+          title: 'Sampler Two',
+          description: "Recorded Things 2024 VA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rect2024_sampler_two_va/";
             },},{id: "projects-shallow-mind",
           title: 'Shallow Mind',
           description: "my first album/LP",
