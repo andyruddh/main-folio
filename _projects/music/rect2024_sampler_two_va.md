@@ -15,6 +15,6 @@ Buy links:
 
 - [Bandcamp - Track](https://recordedthings.bandcamp.com/track/surfliner-2)
 
-- [Beatport - Full VA](https://recordedthings.bandcamp.com/album/sampler-two)
+- [Bandcamp - Full VA](https://recordedthings.bandcamp.com/album/sampler-two)
 
 Streaming platform links available [here](https://linktr.ee/andyruddh).
