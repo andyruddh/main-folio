@@ -3,8 +3,8 @@ layout: page
 title: Imitation
 description: label debut with EP
 img: assets/img/imitation_ep.jpg
-importance: 2
-category: music
+importance: 3
+category: discography
 ---
 
 Making my debut on a label on the Portuguese techno label [Trau-ma](https://trau-ma.bandcamp.com/).

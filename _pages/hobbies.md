@@ -5,7 +5,7 @@ permalink: /hobbies/
 description: my music and tennis
 nav: true
 nav_order: 4
-display_categories: [music, tennis]
+display_categories: [discography, tennis]
 horizontal: false
 ---
 

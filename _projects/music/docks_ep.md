@@ -3,8 +3,8 @@ layout: page
 title: The Docks
 description: EP on Recorded Things
 img: assets/img/docksEP_recordedthings.png
-importance: 1
-category: music
+importance: 2
+category: discography
 ---
 
 New EP out on the renowned techno artist, Oliver Rosemann's label - [Recorded Things](https://recordedthings.bandcamp.com/music).
