@@ -21,4 +21,11 @@ Stream on your favorite platform like [Soundcloud](https://soundcloud.com/trau-m
 
 The EP reached its highest ranking of **#31** on the Beatport Global Techno charts.
 
-<img src="/assets/img/imitationEP_beatport31_RDH.png" alt="Beatport Global Techno Charts" width="900" height="600" title="Beatport Global Techno Charts">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/imitationEP_beatport31_RDH.png" title="Imitation EP on Beatport Global Techno Charts" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Imitation EP at #31 on Beatport Top 100 Releases Global Techno Charts.
+</div>
