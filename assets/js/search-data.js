@@ -23,16 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-press",
-          title: "press",
-          description: "appearances in the press",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/press/";
-          },
-        },{id: "nav-hobbies",
-          title: "hobbies",
-          description: "my music and tennis",
+        },{id: "nav-music-tennis",
+          title: "music + tennis",
+          description: "my hobbies",
           section: "Navigation",
           handler: () => {
             window.location.href = "/hobbies/";
