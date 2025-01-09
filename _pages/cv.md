@@ -3,7 +3,7 @@ layout: cv
 title: cv
 permalink: /cv/
 nav: true
-nav_order: 5
+nav_order: 4
 cv_pdf: resume.pdf
 description: View in browser or click on the right to download.
 ---
