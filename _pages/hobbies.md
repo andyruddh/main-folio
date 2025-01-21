@@ -11,7 +11,7 @@ horizontal: false
 
 ### Music
 
-I produce electronic music under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh) and my sounds consist of raw and hypnotic techno. My music has been supported by pioneers of this genre such as **Richie Hawtin, P.E.A.R.L., Oliver Rosemann**, and many more. My music has placed within the Top 50 on the Beatport Global Techno charts in 2023 and 2024.
+I produce electronic music under the alias [Andy-Ruddh](https://soundcloud.com/andyruddh) and my sounds consist of raw and hypnotic techno. My music has been supported by pioneers of this genre such as **Richie Hawtin, P.E.A.R.L., Wata Igarashi, Oliver Rosemann**, and many more. My music has placed within the Top 50 on the Beatport Global Techno charts in 2023 and 2024.
 
 I also co-moderate a music-curation community of truly authentic Techno music at [r/ProperTechno](https://reddit.com/r/ProperTechno/).
 
