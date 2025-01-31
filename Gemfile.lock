@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/RobertoJBeltran/jekyll-terser.git
-  revision: 2f737004fe4732b92021c84e4de71e6a8585ff01
+  revision: 1085bf66d692799af09fe39f8162a1e6e42a3cc4
   specs:
-    jekyll-terser (0.2.2)
+    jekyll-terser (0.2.3)
       jekyll (>= 0.10.0)
       terser (>= 1.0.0)
 
@@ -105,17 +105,20 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.3.4)
+    jekyll (4.4.1)
       addressable (~> 2.4)
+      base64 (~> 0.2)
       colorator (~> 1.0)
+      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
       jekyll-sass-converter (>= 2.0, < 4.0)
       jekyll-watch (~> 2.0)
+      json (~> 2.6)
       kramdown (~> 2.3, >= 2.3.1)
       kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
-      mercenary (>= 0.3.6, < 0.5)
+      mercenary (~> 0.3, >= 0.3.6)
       pathutil (~> 0.9)
       rouge (>= 3.0, < 5.0)
       safe_yaml (~> 1.0)
